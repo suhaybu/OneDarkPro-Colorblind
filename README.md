@@ -1,16 +1,12 @@
-# onedarkpro-suhayb README
+# onedarkpro-suhayb
 
-## Working with Markdown
+## Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+1. Make sure to have Node.JS installed.
+2. Install VSCE `npm install -g @vscode/vsce`.
+3. Run `vsce package` in the directory of the cloned repo.
+4. Finally run `code --install-extension .\onedarkpro-suhayb-0.0.1.vsix`
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+> [!NOTE]
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+> `.\onedarkpro-suhayb-0.0.1.vsix` represents whatever the vsix file is generated from step 3.
