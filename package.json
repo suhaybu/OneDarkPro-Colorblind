@@ -2,7 +2,7 @@
   "name": "onedarkpro-colorblind",
   "displayName": "One Dark Pro Colorblind (Deuteranopia)",
   "description": "A colorblind friendly version of the popular One Dark Pro theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "publisher": "Suhaybu",
   "engines": {
