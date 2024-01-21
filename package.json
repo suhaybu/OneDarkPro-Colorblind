@@ -1,11 +1,13 @@
 {
   "name": "onedarkpro-suhayb",
-  "displayName": "OneDark Pro - Suhayb's Fork",
-  "description": "OneDark Pro theme fork, Suhayb's edition (Colorblind friendly)",
-  "version": "0.0.1",
+  "displayName": "One Dark Pro Colorblind (Deuteranopia)",
+  "description": "A colorblind friendly version of the popular One Dark Pro theme",
+  "version": "1.0.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "license": "MIT",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/suhaybu/onedarkpro-suhayb.git"
@@ -13,42 +15,36 @@
   "categories": [
     "Themes"
   ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "OneDark Pro - Suhayb's Version",
+        "label": "One Dark Pro Colorblind - Varient 1",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme.json"
+        "path": "./themes/OneDarkProColorblind-v1.json"
       },
       {
-        "label": "OneDark Pro - Suhayb's Version v1",
+        "label": "One Dark Pro Colorblind - Varient 2",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v1.json"
+        "path": "./themes/OneDarkProColorblind-v2.json"
       },
       {
-        "label": "OneDark Pro - Suhayb's Version v2",
+        "label": "One Dark Pro Colorblind - Varient 3",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v2.json"
+        "path": "./themes/OneDarkProColorblind-v3.json"
       },
       {
-        "label": "OneDark Pro - Suhayb's Version v3",
+        "label": "One Dark Pro Colorblind - Varient 4",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v3.json"
+        "path": "./themes/OneDarkProColorblind-v4.json"
       },
       {
-        "label": "OneDark Pro - Suhayb's Version v4",
+        "label": "One Dark Pro Colorblind - Varient 5",
         "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v4.json"
-      },
-      {
-        "label": "OneDark Pro - Suhayb's Version v5",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v5.json"
-      },
-      {
-        "label": "OneDark Pro - Suhayb's Version v6",
-        "uiTheme": "vs-dark",
-        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v6.json"
+        "path": "./themes/OneDarkProColorblind-v5.json"
       }
     ]
   }
