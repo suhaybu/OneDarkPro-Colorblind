@@ -25,6 +25,21 @@
         "label": "OneDark Pro - Suhayb's Version v2",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v2.json"
+      },
+      {
+        "label": "OneDark Pro - Suhayb's Version v3",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v3.json"
+      },
+      {
+        "label": "OneDark Pro - Suhayb's Version v4",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v4.json"
+      },
+      {
+        "label": "OneDark Pro - Suhayb's Version v5",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v5.json"
       }
     ]
   }
