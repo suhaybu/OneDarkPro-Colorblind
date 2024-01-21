@@ -8,5 +8,4 @@
 4. Finally run `code --install-extension .\onedarkpro-suhayb-0.0.1.vsix`
 
 > [!NOTE]
-
 > `.\onedarkpro-suhayb-0.0.1.vsix` represents whatever the vsix file is generated from step 3.
