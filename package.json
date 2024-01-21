@@ -1,5 +1,5 @@
 {
-  "name": "onedarkpro-suhayb",
+  "name": "onedarkpro-colorblind",
   "displayName": "One Dark Pro Colorblind (Deuteranopia)",
   "description": "A colorblind friendly version of the popular One Dark Pro theme",
   "version": "1.0.0",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/suhaybu/onedarkpro-suhayb.git"
+    "url" : "https://github.com/suhaybu/onedarkpro-colorblind.git"
   },
   "categories": [
     "Themes"
