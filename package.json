@@ -1,0 +1,21 @@
+{
+  "name": "onedarkpro-suhayb",
+  "displayName": "OneDark Pro - Suhayb's Fork",
+  "description": "OneDark Pro theme fork, Suhayb's edition (Colorblind friendly)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneDark Pro - Suhayb's Version",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme.json"
+      }
+    ]
+  }
+}
