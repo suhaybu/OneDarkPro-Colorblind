@@ -4,6 +4,7 @@
   "description": "A colorblind friendly version of the popular One Dark Pro theme",
   "version": "1.0.0",
   "icon": "icon.png",
+  "publisher": "Suhayb",
   "engines": {
     "vscode": "^1.85.0"
   },
