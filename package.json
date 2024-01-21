@@ -44,6 +44,11 @@
         "label": "OneDark Pro - Suhayb's Version v5",
         "uiTheme": "vs-dark",
         "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v5.json"
+      },
+      {
+        "label": "OneDark Pro - Suhayb's Version v6",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark Pro - Suhayb's Version-color-theme v6.json"
       }
     ]
   }
