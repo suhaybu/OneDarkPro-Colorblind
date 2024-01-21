@@ -1,11 +1,8 @@
-# onedarkpro-suhayb
+# One Dark Pro (Colorblind)
 
-## Installation
+A colorblind friendly version of the popular One Dark Pro theme based on [binaryify's](https://github.com/Binaryify/OneDark-Pro.git) project.
 
-1. Make sure to have Node.JS installed.
-2. Install VSCE `npm install -g @vscode/vsce`.
-3. Run `vsce package` in the directory of the cloned repo.
-4. Finally run `code --install-extension .\onedarkpro-suhayb-0.0.1.vsix`
+The theme includes 5 variations to choose for your liking. These variants only change bracket and string colors.
 
 > [!NOTE]
-> `.\onedarkpro-suhayb-0.0.1.vsix` represents whatever the vsix file is generated from step 3.
+> All 5 variants are targetted only to users who have Deuteranopia (Red-Green colorblindness).
